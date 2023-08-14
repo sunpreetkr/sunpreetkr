@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sunpreet</h1>
 <h3 align="center">A full-stack developer based in Melbourne</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sunpreet-kaur-a589b1175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sunpreet-kaur-a589b1175/" height="30" width="40" /></a>
